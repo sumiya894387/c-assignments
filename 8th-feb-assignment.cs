@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace modularity1
 {
-    class overriding
+    class overloading
     {
        
             static void Add(int x, int y)
